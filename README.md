@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Sadi Jubair
 
-<!--
-**sadijubair/sadijubair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Web Developer | 🎨 UI Designer | 🚀 WordPress Expert  
+🇧🇩 Bangladesh
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- HTML, CSS, JavaScript
+- Tailwind CSS, Bootstrap
+- WordPress Theme & Plugin Development
+- PHP & MySQL
+
+---
+
+## 📂 Projects
+- 🎓 School Management System
+- 🧑‍🏫 Teacher Dashboard
+- 📰 News Portal Theme
+- 📊 Admin Panel UI
+
+---
+
+## 📫 Contact Me
+- 📧 Email: phenomcode@outlook.com  
+- 🌐 Website: https://yourwebsite.com  
+- 💼 GitHub: https://github.com/yourusername
+
+---
+
+⭐ *Thanks for visiting my profile!*
